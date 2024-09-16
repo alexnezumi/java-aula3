@@ -1,0 +1,41 @@
+Exercicios
+1) Faca um algoritmo que efetue a seguinte operacao  ( 2/50+valor/49 +2 elevado ao quadrado/48)
+ 
+2)SOLICITE AO USUÁRIO  O VALOR GASTO EM COMBUSTIVEL NO MÊS , 
+
+SENDO QUE VOCÊ PRECISA SABER QUANTO ELE GASTA POR DIA EM REAIS 
+
+E DEPOIS QUANTOS DIAS TEM NO MÊS , POR FIM MOSTRE NA TELA O VALOR GASTO (RESULTADO)
+ 
+3) Leia um número e exiba seu sucessor.
+ 
+4)Sabendo que latão é constituído de 70% de cobre e 30% de zinco, indique a quantidade de 
+
+    cada um desses componentes para se obter uma certa quantidade de latão (requerida pelo 
+
+    usuário).
+ 
+EXERCICIOS IF - ELSE
+
+CRIE UMA CLASSE QUE SIMULE O FUNCIONAMENTO DE UM CADASTRO DE CLIENTE 
+
+MENU
+
+1 - inclusao -  cadastrar dados (rg/cpf/codigo)
+2 - alteracao - retornar mensagem "Registro alterado com sucesso"
+3 - exclusao - retornar mensagem "Registro excluido com sucesso"
+4 - sair - retornar mensagem "Encerrando o sistema"
+
+Dados a serem cadastrados  
+numero do cpf 
+numero do rg
+codigo
+ 
+2) Solicite a idade do aluno e de acordo com a idade retorne a mensagem abaixo :
+ 
+CATEGORIAS
+1 ATÉ 1O ANOS- INFANTIL
+11 ATE 13 ANOS - INFANTO-JUVENIL
+14 ATE 17 ANOS - PRE-ADOLESCENTE
+ACIMA DE 18 - ADULTO
+ 
